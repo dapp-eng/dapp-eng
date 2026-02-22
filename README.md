@@ -180,7 +180,7 @@ class DataScientist:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dapp-eng&theme=nord&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dapp-eng&&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -312,7 +312,7 @@ class DataScientist:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
+<img src="https://github-readme-stats-dapp-eng.vercel.app/api/wakatime?username=dapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
 
 </div>
 
