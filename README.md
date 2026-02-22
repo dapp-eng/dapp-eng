@@ -53,7 +53,7 @@ class DataScientist:
 - 🧪 Building projects in **ML, NLP, Signal Processing & Data Mining**
 - 🧠 Detail-oriented, analytical, and driven by data-backed decisions
 - 💬 Always open to collaborating on **research & impactful DS projects**
-- 📫 Contact me - **daffaaa175@gmail.com**
+- 📫 Contact me: **daffaaa175@gmail.com**
 
 <br clear="right"/>
 
@@ -149,14 +149,14 @@ class DataScientist:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dapp-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=caf0f8&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dapp-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8"/>
+<img height="180em" src="https://github-readme-stats-seven-flame-22.vercel.app/api?username=dapp-eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=caf0f8&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-seven-flame-22.vercel.app/api/top-langs/?username=dapp-eng&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dapp-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=0077b6&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=888888)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dapp-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=0077b6&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -180,7 +180,7 @@ class DataScientist:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dapp-eng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dapp-eng&theme=onedark&no-bg=true&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -229,6 +229,8 @@ class DataScientist:
 
 [![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=intalenta&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/intalenta)
 [![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=calmy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/calmy)
+[![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=superstore_data_viz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/superstore_data_viz)
+[![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=air-quality-dashboard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/air-quality-dashboard)
 
 </div>
 
@@ -312,7 +314,7 @@ class DataScientist:
 
 <div align="center">
 
-<img src="https://github-readme-stats-seven-flame-22.vercel.app/api/wakatime?username=dapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
+<img src="https://github-readme-stats-seven-flame-22.vercel.app/api/wakatime?username=dapp_eng&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
 
 </div>
 
