@@ -156,7 +156,7 @@ class DataScientist:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dapp-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=0077b6&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=888888&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dapp-eng&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=0077b6&fire=ff6b35&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=888888)
 
 </div>
 
@@ -227,8 +227,8 @@ class DataScientist:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dapp-eng&repo=intalenta&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/intalenta)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dapp-eng&repo=calmy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/calmy)
+[![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=intalenta&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/intalenta)
+[![Readme Card](https://github-readme-stats-seven-flame-22.vercel.app/api/pin/?username=dapp-eng&repo=calmy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&icon_color=0077b6)](https://github.com/dapp-eng/calmy)
 
 </div>
 
@@ -328,7 +328,7 @@ class DataScientist:
 
 <div align="center">
 
-<sub>💙 Made with passion for data · © 2026 Daffa Ahmad Pangreksa</sub>
+<sub>Made with passion for data · © 2026 Daffa Ahmad Pangreksa</sub>
 
 </div>
 
