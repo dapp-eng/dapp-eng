@@ -180,7 +180,7 @@ class DataScientist:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dapp-eng&theme=onedark&no-bg=true&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://gh-profile-trophy.vercel.app/?username=dapp-eng&theme=onedark&no-bg=true&no-frame=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
