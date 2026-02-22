@@ -312,7 +312,7 @@ class DataScientist:
 
 <div align="center">
 
-<img src="https://github-readme-stats-dapp-eng.vercel.app/api/wakatime?username=dapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
+<img src="https://github-readme-stats-seven-flame-22.vercel.app/api/wakatime?username=dapp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Wakatime Stats"/>
 
 </div>
 
